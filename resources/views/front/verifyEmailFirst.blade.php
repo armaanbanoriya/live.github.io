@@ -1,0 +1,1 @@
+<h1>Veriy Email To Activate</h1> 
